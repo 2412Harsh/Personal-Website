@@ -32,9 +32,9 @@ p{
 }
 a{
 	color: #11999E;
-    margin-right: 20px;
-    font-family: 'Monteserrat', sans-serif;
-    text-decoration: none;
+	margin-right: 20px;
+	font-family: 'Monteserrat', sans-serif;
+	text-decoration: none;
 }
 a:hover{
 	color: #EAF6F6;
@@ -97,6 +97,8 @@ a:hover{
 	color:#11999E;
 }
 .express{
+	width: 128px;
+	height: 128px;
 	float: left;
 	margin-right: 30px;
 	color:#11999E;
