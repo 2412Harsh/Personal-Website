@@ -96,7 +96,13 @@ a:hover{
 	margin-right: 30px;
 	color:#11999E;
 }
-
+.express{
+	width: 128px;
+	height: 128px;
+	float: left;
+	margin-right: 30px;
+	color:#11999E;
+}
 .contact-message{
 	margin: 40px auto 50px;
 }
