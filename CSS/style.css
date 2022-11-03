@@ -69,6 +69,9 @@ a:hover{
 	width: 50%;
 	margin: 100px auto 100px auto;
 }
+
+/* //skills css section */
+
 .html{
 	float: left;
 	margin-right: 30px;
@@ -86,6 +89,14 @@ a:hover{
 	margin-right: 30px;
 	color:#11999E;
 }
+.nodeJs{
+	width: 128px;
+	height: 128px;
+	float: right;
+	margin-right: 30px;
+	color:#11999E;
+}
+
 .contact-message{
 	margin: 40px auto 50px;
 }
